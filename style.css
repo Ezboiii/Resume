@@ -1,0 +1,146 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+img{
+    border-color: black;
+    border-radius: 150%;
+    height: 250px;
+    margin: 30px;
+}
+.profile{
+    background-color: beige;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+
+}
+.profile h1,h4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.profile h1{
+font-weight: bolder;
+}
+h1, h2, h3, h4{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+ul {
+    list-style: none;
+    text-align: center;
+  }
+  li {
+    margin-bottom: 5px;
+  }
+  .contact{
+    background-color: beige;
+    padding: 50px;
+    border-color: black;
+    border-style: solid;
+
+
+  }
+  .contact h2,li{
+    text-align: left;
+    font-size: larger;
+    font-style: italic;
+  }
+  .summary{
+    background-color: beige;
+    border-style: solid;
+    border-color: black;
+    padding: 50px;
+  }
+  .summary h2,p{
+    font-size: larger;
+    font-style:italic ;
+    text-align: left;
+  }
+  .education{
+    background-color: beige;
+    border-style: solid;
+    border-color: black;
+    padding: 50px;
+  }
+  .education h2,ul{
+    font-size: larger;
+    font-style:italic ;
+    text-align: left;
+  }
+  .work{
+    background-color: beige;
+    border-style: solid;
+    border-color: black;
+    padding: 50px;
+  }
+  .work h2,ul{
+    font-size: larger;
+    font-style:italic ;
+    text-align: left;
+  }
+  .skill{
+    background-color: beige;
+    border-style: solid;
+    border-color: black;
+    padding: 50px;
+  }
+  .skill h2,ul{
+    font-size: larger;
+    font-style:italic ;
+    text-align: left;
+  }
+  .cert{
+    background-color: beige;
+    border-style: solid;
+    border-color: black;
+    padding: 50px;
+  }
+  .cert h2,ul{
+    font-size: larger;
+    font-style:italic ;
+    text-align: left;
+  }
+  .lang{
+    background-color: beige;
+    border-style: solid;
+    border-color: black;
+    padding: 50px;
+  }
+  .lang h2,ul{
+    font-size: larger;
+    font-style:italic ;
+    text-align: left;
+  }
+  .portfolio{
+    background-color: beige;
+    border-style: solid;
+    border-color: black;
+    padding: 50px;
+  }
+  .portfolio h2,ul{
+    font-size: larger;
+    font-style:italic ;
+    text-align: left;
+  }
+  .social{
+    background-color: beige;
+    border-style: solid;
+    border-color: black;
+    padding: 50px;
+  }
+  .social h2,ul{
+    font-size: larger;
+    font-style:italic ;
+    text-align: left;
+    list-style: square;
+  }
+  .footer{
+    background-color: beige;
+    padding: 20px;
+  }
+  footer{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
